@@ -14,7 +14,7 @@ namespace calculator
 
             Console.Clear();
 
-            Console.WriteLine("Qual calculo deseja fazer?");
+            Console.WriteLine("Qual cálculo deseja fazer?");
             Console.WriteLine(" ");
 
             Console.WriteLine("* - * - * - * - * - * - * - * - * ");
