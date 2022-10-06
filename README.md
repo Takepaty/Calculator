@@ -1,12 +1,4 @@
-# Calculator
+## Projeto
 
-## 📝 Sumário
+*   Calculadora Console com as quatro operações básicas.
 
-- [Sobre](#sobre)
-- [Começando](#comecando)
-- [Execução](#execucao)
-- [Saída](#saida)
-- [Desenvolvimento](#desenvolvimento)
-- [Ferramentas](#ferramentas)
-- [Colaboradores](#colaboradores)
-- [Agradecimento](#agradecimento)
